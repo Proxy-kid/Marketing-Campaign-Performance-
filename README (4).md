@@ -12,7 +12,7 @@
 
 - [Project Overview](#project-overview)
 - [Business Problem](#business-problem)
-- [Business Objectives](#business-objectives)
+- [Business Objectives](#business-objective)
 - [Stakeholders](#stakeholders)
 - [Dataset](#dataset)
 - [Database Schema Design](#database-schema-design)
