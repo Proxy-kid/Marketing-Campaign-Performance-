@@ -319,9 +319,9 @@ The project also examines:
 Email acquired the largest customer group:
 
 - **15,073 customers**
-- **$8.38M revenue** during 2021–2025
+- **$10.4M revenue** during 2021–2026
 
-It also generated the highest revenue per acquired customer at approximately **$556** over the dashboard period.
+It also generated the highest revenue per acquired customer at approximately **$690.52** over the period.
 
 This suggests that Email was not only effective at acquiring customers at scale but also generated strong commercial value.
 
@@ -329,13 +329,13 @@ This suggests that Email was not only effective at acquiring customers at scale 
 
 ## 2. Campaign performance varied substantially by return on spend
 
-The highest-revenue campaign during 2021–2025 was:
+The highest-revenue campaign during 2021–2026 was:
 
-**Premium Bundle Email — $2.16M attributed revenue**
+**Premium Bundle Email — $2.83M attributed revenue**
 
 The highest ROI campaign was:
 
-**Newsletter Promo Email — approximately 48,359% ROI**
+**Newsletter Promo Email — approximately 63,238% ROI**
 
 This illustrates why campaign performance should not be evaluated using revenue alone. A campaign can generate substantial revenue while another produces a stronger return relative to its budget.
 
@@ -353,15 +353,15 @@ However, budget reallocation should consider customer quality and repeat purchas
 
 ## 4. East and North were the strongest regions
 
-The **East** region generated the highest revenue during 2021–2025:
+The **East** region generated the highest revenue during 2021–2026:
 
-**$6.86M**
+**$8.6M**
 
 The **North** region followed closely at:
 
-**$6.75M**
+**$8.4M**
 
-North had the highest average order value at approximately **$214**, while East generated the highest revenue per customer at approximately **$571**.
+North had the highest average order value at approximately **$217**, while East generated the highest revenue per customer at approximately **$708**.
 
 This suggests that East and North represent the strongest regional markets, although they demonstrate slightly different strengths.
 
@@ -371,30 +371,24 @@ This suggests that East and North represent the strongest regional markets, alth
 
 The age analysis showed that:
 
-- **Gen X** generated approximately **$7.47M**
-- **Millennials** generated approximately **$7.43M**
+- **Baby Boomers(57+)** generated approximately **$10.9M**
+- **Gen X** generated approximately **$9.3M**
 
-Gen X had the highest revenue per customer at approximately **$544**, closely followed by Millennials at approximately **$543**.
+Gen X had the highest revenue per customer at approximately **$672**, closely followed by Millennials at approximately **$671**.
 
-This indicates that these two segments represent particularly valuable customer groups, although Baby Boomers generated the highest total revenue because of their larger customer base.
+This indicates that these two segments represent particularly valuable customer groups, although Baby Boomers generated the highest total revenue because of their larger customer base(**16353**).
 
 ---
 
 ## 6. Repeat purchasing represents a significant opportunity
 
-Using the stakeholder's definition of a repeat buyer—transactions in at least two distinct calendar months—approximately **20,909 customers** qualified as repeat buyers in the transaction data used for the analysis.
-
-Among campaign-acquired customers, **Search Generic Keywords** had the highest repeat-purchase rate at approximately **43.9%**.
-
-This suggests that campaign effectiveness should not be judged solely on acquisition volume or first-purchase revenue. The ability of a campaign to attract customers who continue purchasing is also important.
+Using the stakeholder's definition of a repeat buyer—transactions in at least two distinct calendar months—approximately **16,629 customers** qualified as repeat buyers in the transaction data used for the analysis.
 
 ---
 
 ## 7. Customers generally converted relatively quickly after signup
 
 Average time to first purchase was approximately **15 days across acquisition channels**, with only small differences between channels.
-
-Paid Search had the shortest average time to first purchase at approximately **14.9 days**.
 
 The relatively small difference between channels suggests that acquisition-channel selection may have a greater impact on customer value and volume than on initial purchase timing in this dataset.
 
@@ -404,7 +398,7 @@ The relatively small difference between channels suggests that acquisition-chann
 
 East and North together generated substantially more revenue than the remaining regions.
 
-Meanwhile, South had the lowest revenue per customer and lowest average order value.
+Meanwhile, South and central had the lowest revenue per customer and lowest average order value.
 
 This creates an opportunity for region-specific marketing strategies rather than applying the same budget allocation across every market.
 
@@ -520,7 +514,7 @@ Revenue per customer is used as a customer-value metric. It should not automatic
 
 ### Organic acquisition
 
-Customers with a `NULL` acquisition campaign are treated as having no associated campaign. If the source system does not explicitly define these customers as organic, they should more precisely be described as **unattributed/no-campaign customers**.
+Customers with a `NULL` acquisition campaign are treated as organic, because the source system explicitly defined them as that. 
 
 ### Dataset limitations
 
