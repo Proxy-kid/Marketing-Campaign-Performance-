@@ -93,7 +93,7 @@ The project uses three related datasets.
 |---|---|
 | `campaigns` | Campaign name, marketing channel, and campaign budget |
 | `customers` | Customer demographics, region, signup date, acquisition channel, and acquisition campaign |
-| `transactions` | Customer purchases, transaction dates, attributed campaign, and order amount |
+| `transactions` | Transaction dates, attributed campaign, and order amount |
 
 ### Data scale
 
