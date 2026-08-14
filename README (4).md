@@ -12,8 +12,8 @@
 
 - [Project Overview](#project-overview)
 - [Business Problem](#business-problem)
-- [Stakeholders](#stakeholders)
 - [Business Objectives](#business-objectives)
+- [Stakeholders](#stakeholders)
 - [Dataset](#dataset)
 - [Database Schema Design](#database-schema-design)
 - [Data Cleaning & Validation](#data-cleaning--validation)
@@ -55,7 +55,7 @@ The marketing team has invested in multiple campaigns across several channels, b
 
 At the same time, customer purchasing behavior varies across acquisition sources, age groups, and regions. Without a structured analysis, marketing budget allocation and customer-targeting decisions may rely too heavily on aggregate performance.
 
-### Business Objective
+## Business Objective
 
 The project aims to:
 
