@@ -516,6 +516,10 @@ Revenue per customer is used as a customer-value metric. It should not automatic
 
 Customers with a `NULL` acquisition campaign are treated as organic, because the source system explicitly defined them as that. 
 
+### Roi Metric
+
+Campaign budgets reflect a single recorded investment, not recurring annual spend — multi-year figures show cumulative return on that one-time cost.
+
 ### Dataset limitations
 
 The dataset does not contain:
