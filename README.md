@@ -548,7 +548,7 @@ Marketing-Campaign-Performance/
 │       └── transactions.csv
 │
 ├── sql/
-│   ├── Marketing Analysis Portfolio.sql
+│   ├── Data cleaning & schema redesign
 │   └── Marketing analysis eda.sql
 │
 ├── dashboard/
