@@ -1,0 +1,26 @@
+campaign_id,campaign_name,channel,budget
+CAMP01,Welcome_Series_Email,Email,4500.0
+CAMP02,Black_Friday_Email,Email,6000.0
+CAMP03,Premium_Bundle_Email,Email,7000.0
+CAMP04,Spring_Discount_Email,Email,4000.0
+CAMP05,Holiday_Discount_Email,Email,4200.0
+CAMP06,Loyalty_Rewards_Email,Email,3800.0
+CAMP07,Newsletter_Promo_Email,Email,3200.0
+CAMP08,Flash_Sale_Email,Email,5500.0
+CAMP09,Re_Engagement_Email,Email,3500.0
+CAMP10,VIP_Early_Access_Email,Email,6500.0
+CAMP11,Search_Brand_Terms,Paid Search,55000.0
+CAMP12,Search_High_Ticket_Ads,Paid Search,65000.0
+CAMP13,Search_Generic_Keywords,Paid Search,50000.0
+CAMP14,Google_Shopping_Ads,Paid Search,58000.0
+CAMP15,Search_Discount_20,Paid Search,145000.0
+CAMP16,Bing_Search_Promo,Paid Search,45000.0
+CAMP17,Competitor_Conquest_Search,Paid Search,130000.0
+CAMP18,Retargeting_Search_Ads,Paid Search,60000.0
+CAMP19,Instagram_Reach_Campaign,Social Media,16000.0
+CAMP20,Facebook_Retarget_Ads,Social Media,18000.0
+CAMP21,TikTok_Awareness_Push,Social Media,14000.0
+CAMP22,Social_Discount_Blast,Social Media,15000.0
+CAMP23,Influencer_Partnership_Push,Social Media,22000.0
+CAMP24,Summer_Discount_20,Social Media,16500.0
+CAMP25,Brand_Awareness_Social,Social Media,13500.0
