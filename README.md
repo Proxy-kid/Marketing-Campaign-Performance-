@@ -108,7 +108,7 @@ The project uses three related datasets.
 
 ## Database Schema Design
 
-The original source tables did not enforce a complete relational structure. I therefore rebuilt the analytical database with explicit primary keys, foreign keys, appropriate data types, and constraints before beginning the analysis. The sql code for the Database Schema Design is available [here](sql/Data%20cleaning%20&%20schema%20redesign.sql)
+The original source tables did not enforce a complete relational structure. I therefore rebuilt the analytical database with explicit primary keys, foreign keys, appropriate data types, and constraints before beginning the analysis. The sql code for the Schema Redesign is available [HERE](sql/Data%20cleaning%20&%20schema%20redesign.sql)
 
 ### Final schema
 
@@ -182,7 +182,8 @@ These fields are not interchangeable. A customer may have been acquired through 
 
 ## Data Cleaning & Validation
 
-Several data-quality and modeling issues were addressed before analysis.
+Several data-quality and modeling issues were addressed before analysis.  The sql code is available [HERE](sql/Data%20cleaning%20&%20schema%20redesign.sql)
+
 
 ### 1. Data type correction
 
