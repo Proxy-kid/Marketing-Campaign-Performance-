@@ -425,16 +425,17 @@ The dashboard allows stakeholders to:
 
 The dashboard is organized around:
 
-1. **Executive Overview**
+### 📈 Executive Overview
+   ![Executive Overview](dashboard/Executive%20Overview.png)
+   
+---
 
 ### 📈 Customer & Regional View
    ![customer & regional view](dashboard/Customer%20&%20Region%20performance.png)
-   
-4. **Campaign Performance**
-5. **Year-based analysis through interactive filters**
 
-The yearly views are controlled through dashboard filters rather than being separate analytical datasets.
-
+```text
+The yearly views are controlled through dashboard filters.
+```
 
 ### Tableau Public
 
@@ -557,7 +558,8 @@ Marketing-Campaign-Performance/
 │   └── Marketing analysis eda.sql
 │
 ├── dashboard/
-│   └── Tableau Public dashboard
+│   └── Executive Overview.png
+│   └── Customer & Region performance.png
 │
 ├── images/
 │   └── dashboard screenshots
