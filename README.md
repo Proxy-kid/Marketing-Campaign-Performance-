@@ -561,9 +561,6 @@ Marketing-Campaign-Performance/
 │   └── Executive Overview.png
 │   └── Customer & Region performance.png
 │
-├── images/
-│   └── dashboard screenshots
-│
 └── README.md
 ```
 
@@ -642,6 +639,6 @@ The analysis shows that **Email is a particularly strong acquisition channel, Ea
 ### Author
 
 **Akan**  
-Aspiring Data Analyst
+Data Analyst
 
 **Skills:** MySQL · SQL · Tableau · Data Analysis · Database Design · Data Visualization
