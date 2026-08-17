@@ -21,7 +21,7 @@
 - [Key Findings](#key-findings)
 - [Tableau Dashboard](#tableau-dashboard)
 - [Recommendations](#recommendations)
-- [Limitations & Analytical Considerations](#limitations--analytical-considerations)
+- [Limitations & Analytical Considerations](#analytical-considerations--limitations)
 - [Project Structure](#project-structure)
 - [Tools & Skills Demonstrated](#tools--skills-demonstrated)
 - [How to Reproduce](#how-to-reproduce)
