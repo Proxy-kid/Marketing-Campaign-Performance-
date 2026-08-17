@@ -426,12 +426,15 @@ The dashboard allows stakeholders to:
 The dashboard is organized around:
 
 1. **Executive Overview**
-2. **Customer & Regional Analysis**
-3. **Campaign Performance**
-4. **Year-based analysis through interactive filters**
+
+### 📈 Customer & Regional View
+   ![customer & regional view](dashboard/Customer%20&%20Region%20performance.png)
+   
+4. **Campaign Performance**
+5. **Year-based analysis through interactive filters**
 
 The yearly views are controlled through dashboard filters rather than being separate analytical datasets.
-![customer & regional view](dashboard/Customer%20&%20Region%20performance.png)
+
 
 ### Tableau Public
 
