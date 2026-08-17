@@ -431,6 +431,7 @@ The dashboard is organized around:
 4. **Year-based analysis through interactive filters**
 
 The yearly views are controlled through dashboard filters rather than being separate analytical datasets.
+![customer & regional view](dashboard/Customer%20&%20Region%20performance.png)
 
 ### Tableau Public
 
